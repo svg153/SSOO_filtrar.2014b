@@ -1,0 +1,1 @@
+FILTRAR_TIMEOUT=1 ./filtrar _WORK ./_ESPERA

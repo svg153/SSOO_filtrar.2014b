@@ -1,0 +1,2 @@
+mkdir -p _VACIO
+FILTRAR_TIMEOUT=MAL ./filtrar _VACIO
